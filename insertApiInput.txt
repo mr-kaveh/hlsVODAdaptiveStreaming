@@ -1,0 +1,3 @@
+
+product=&m3u8=/master.m3u8&password=cKShe85l7uRfskHc
+product='0'&m3u8=http://5.202.183.252/vod/kelaket/2018/05/YouWereNeverReallyHere/YouWereNeverReallyHere/YouWereNeverReallyHeremaster.m3u8&password=cKShe85l7uRfskHc
